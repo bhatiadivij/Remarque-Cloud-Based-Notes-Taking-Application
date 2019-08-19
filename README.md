@@ -1,4 +1,4 @@
-# RemarqueDB-Cloud-Based-Notes-Taking-Application
+# Remarque-Cloud-Based-Notes-Taking-Application
 **Remarque** is a simple note taking application that allows you to create text notes, lists, and more. The application that consists of Web components (JSPs and servlets), EJB components (session and entity enterprise beans), and the EIS tier (database tables). It is a digital notepad and easy-to-format word processor for all your thoughts as they come.
 
 # Requirements Analysis:
